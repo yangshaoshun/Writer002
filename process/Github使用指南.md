@@ -69,6 +69,7 @@ github 本质上只是个 git 的 themes,
         * 从 https://github.com/OpenMindClub/BookWriter002/network/members
 链接到所有合法同学
         * ...
+
 > 2.issue 是用来讨论问题的，相当于另开一个话题。issue 和 库里面的正文似乎没有太大联系？
 
 - github 本质上又一个通过 G.F.M 惯通了的 wiki !
