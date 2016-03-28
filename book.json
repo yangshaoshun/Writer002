@@ -2,7 +2,7 @@
     "plugins": ["disqus"],
     "pluginsConfig": {
         "disqus": {
-            "shortName": "yangshaoshun-omoocwriter002"
+            "shortName": ""
         }
     }
 }
