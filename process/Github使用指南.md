@@ -3,7 +3,7 @@
 + 使用 github-pages 服务 by `大妈`
 + [github工具 by `大妈`](https://github.com/OpenMindClub/Writer002/issues/81#issuecomment-202125714)
 + 快速查看笔记和作业 by `阳老`
-
++ github Repository Graphs -- network graph visualiser
 
 ## 使用 github-pages 服务 by `大妈`
 
@@ -188,3 +188,20 @@ github 本质上只是个 git 的 themes,
 方法3：通过每周作业笔记交付展示 Issue 查看
 
 比如 [#82](https://github.com/OpenMindClub/Writer002/issues/82) [#55](https://github.com/OpenMindClub/Writer002/issues/55) [#41](https://github.com/OpenMindClub/Writer002/issues/41)
+
+## github Repository Graphs -- network graph visualiser
+
+- [Say hello to the Network Graph Visualizer](https://github.com/blog/39-say-hello-to-the-network-graph-visualizer)
+- [About Repository Graphs](https://help.github.com/articles/about-repository-graphs/)
+
+> The Network graph shows the branch history of the entire repository network, including branches of the root repository and branches of forks that contain commits unique to the network.
+
+> To see older branches, click and drag within the graph.
+
+GitHub网络(Network)是一个非常强大的工具，让我们能看到每一个贡献者的代码提交，以及这些提交与其他的提交有什么关联。当我们作为一个整体观看这个网络的可视化展现时，我们能看到每一个库，每一个分支，和每一个提交.
+
+![](https://help.github.com/assets/images/help/graphs/repo_network_graph.png)
+
+- 查看主库的分支, 即各个成员 fork 的库
+- 查看各个fork库的动态,包括每一次提交 / merge状态
+- 按照 commit 时间线展示, 即可以方便的时间倒序查看成员的动态
